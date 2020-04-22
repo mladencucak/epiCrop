@@ -25,3 +25,5 @@ Suggests:
     rmarkdown
 VignetteBuilder: knitr
 RoxygenNote: 6.1.1
+URL: https://github.com/mladencucak/epiCrop
+BugReports: https://github.com/mladencucak/epiCrop/issues
