@@ -1,5 +1,5 @@
 # epiCrop
-Set of functions and data for crop disease forecasting work.
+Set of functions and data for crop disease forecasting works.
  
 ## What is in it
 1. A function to import, check, organise and interpolate the weather data. (under development)
