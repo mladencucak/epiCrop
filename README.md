@@ -1,6 +1,6 @@
 # epiCrop
-Set of functions and data for crop disease epidemiology work
-
+Set of functions and data for crop disease forecasting work.
+ 
 ## What is in it
 1. A function to import, check, organise and interpolate the weather data. (under development)
 2. Models:  
@@ -14,7 +14,7 @@ Set of functions and data for crop disease epidemiology work
 The package is not on CRAN so it can be installed directly from this repository.
 1. Restart r sesion (Ctrl/Cmd+Shift+F10).
 2. Install `remotes` package.
-3. Install the `BligtR` package.
+3. Install the `BligtR` package. 
 
 This could be accomplished by running the following code:
 ``` r
