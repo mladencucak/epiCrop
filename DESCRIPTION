@@ -1,0 +1,27 @@
+Package: epiCrop
+Type: Package
+Title: Set of functions and data for crop disease epidemiology work
+Version: 0.1.0
+Authors@R: c(person("Mladen", "Cucak", role = c("aut", "cre"),
+                     email = "mladencucak@gmail.com"))
+Author: Mladen Cucak [aut, cre]
+Maintainer: Mladen Cucak <mladencucak@gmail.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 3.4.2)
+Imports:
+    dplyr,
+    stringr,
+    lubridate,
+    zoo
+Suggests: 
+    data.table,
+    stats,
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+RoxygenNote: 6.1.1
